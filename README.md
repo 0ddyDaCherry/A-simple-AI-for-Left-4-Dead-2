@@ -35,7 +35,7 @@ Incluye una **Interfaz Gráfica (GUI)** para configurar sensibilidades, teclas y
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/0ddyDaCherry/A-simple-AI-for-Left-4-Dead-2.git](https://github.com/0ddyDaCherry/A-simple-AI-for-Left-4-Dead-2.git)
+    git clone https://github.com/0ddyDaCherry/A-simple-AI-for-Left-4-Dead-2.git
     ```
 
 2.  **Instalar dependencias:**
@@ -96,3 +96,4 @@ Este software ha sido desarrollado con fines **educativos** y de aprendizaje sob
 
 
 Desarrollado por Oddy Da Cherry.
+
