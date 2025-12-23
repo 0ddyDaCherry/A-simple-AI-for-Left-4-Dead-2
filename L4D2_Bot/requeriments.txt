@@ -1,0 +1,15 @@
+# Estos son las dependencias del proyecto:
+
+ultralytics
+opencv-python
+mss
+numpy
+keyboard
+pywin32
+customtkinter
+pillow
+
+# ejecuta este comando en la terminal para instalar todo :v
+# pip install -r requirements.txt
+
+# NO HAGAS UN ENTORNO VIRTUAL

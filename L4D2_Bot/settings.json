@@ -1,0 +1,15 @@
+{
+    "tecla_activacion": "t",
+    "tecla_disparo": "z",
+    "tecla_salir": "q",
+    "divisor_x": 10.0,
+    "divisor_y": 9.0,
+    "offset_cabeza": -5,
+    "paciencia_memoria": 15,
+    "umbral_empujar": 0.2,
+    "confidencia": 0.25,
+    "mostrar_ventana": true,
+    "tamano_captura": 416,
+    "model_path": "best.pt",
+    "umbral_color": 0.05
+}
