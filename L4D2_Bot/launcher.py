@@ -4,10 +4,6 @@ import subprocess
 import sys
 import os
 
-# SI HICISTE INGENIERIA INVERSA A ESTE PROGRAMA PARA VER EL CODIGO
-# DE UNA VEZ TE AVISO QUE NO INTENTES CAMBIAR NADA PQ HAY COSAS QUE NI YO
-# SE COMO ES QUE FUNCIONAN AUN ESTANDO MAL XD
-
 # AQUI SOLO ENCONTRARAS LA LOGICA DE LA UI MAS NO OTRA COSA
 # LA LOGICA DEL BOT ESTA EN: bot.py
 
@@ -242,4 +238,5 @@ class App(ctk.CTk):
 
 if __name__ == "__main__":
     app = App()
+
     app.mainloop()
