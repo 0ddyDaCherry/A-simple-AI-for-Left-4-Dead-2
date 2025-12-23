@@ -53,7 +53,7 @@ except Exception as e:
     time.sleep(5)
     exit()
 
-# Centramos la captura
+# Centra la captura
 monitor = {
     "top": (1080 - TAMANO_CAPTURA)//2, 
     "left": (1920 - TAMANO_CAPTURA)//2, 
@@ -164,4 +164,5 @@ try:
             cv2.waitKey(1)
 
 except KeyboardInterrupt: pass
+
 cv2.destroyAllWindows()
